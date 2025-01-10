@@ -13,6 +13,7 @@ add_subdirectory(cpp/speculative_decoding_lm)
 add_subdirectory(cpp/image_generation)
 add_subdirectory(cpp/visual_language_chat)
 add_subdirectory(cpp/whisper_speech_recognition)
+add_subdirectory(cpp/text2image)
 
 install(FILES
         deployment-requirements.txt
